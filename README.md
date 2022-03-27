@@ -1,1 +1,1 @@
-# make our Web project with JavaScript
+# This is our repo for make Web project with JavaScript
